@@ -15,7 +15,8 @@
 - 🔭 I’m currently working on distributed systems
 - 💬 Ask me about system design & data-intensive applications & AWS
 - :dancers: I’m looking to collaborate on hig ideas behind reliable, scalable, and maintainable systems.
-- :sunny: I've helped my company go through a total cloud transformation in early 2020 -- closed the data centers, built out a modern SaaS development environment, got cloud native with foundational building blocks like containers and Kubernetes, and continued transforming into an AI-driven organization that make our customers' lives easier. 
+
+- :sunny: I've navigated my company towards a cloud transformation in early 2020 -- closed the data centers, built out a modern SaaS development environment, got cloud native with foundational building blocks like containers and Kubernetes, and continued transforming into an AI-driven organization that make our customers' lives easier. 
 - :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
 
 
