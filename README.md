@@ -7,10 +7,12 @@
 </div>
 
 <div align="center">
-  <a href="https://www.kk-edu.com/">
+  <a href="">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
 
 - 🔭 I’m currently working on distributed system
 - 💬 Ask me about system design & data-intensive applications & AWS
