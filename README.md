@@ -1,8 +1,8 @@
 <div align="center">
-<h1 align="center">Hola Señoras y señores <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm David</h1>
-<h4 align="center"> :blush: Accomplished Sr. Software Engineer and AWS certified Solutions Architect with hands-on experience </h4>
+<h1 align="center">:octocat: Hola<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm David</h1>
+<h4 align="center"> :santa: Accomplished Sr. Software Engineer and AWS certified Solutions Architect with hands-on experience </h4>
  in delivering high-quality apps that scale. 
-<h4 align="center"> :muscle: Skilled in Agile management with an unapologetically data-driven business strategy. </h4>
+<h4 align="center"> :christmas_tree: Skilled in Agile management with an unapologetically data-driven business strategy. </h4>
 <h4 align="center"> :honeybee: Passionate for reliable, scalable, and maintainable systems. </h4>
 </div>
 
@@ -12,7 +12,8 @@
        alt="snake" /></a>
 </div>
 
-
+- 🔭 I’m currently working on distributed system
+- 💬 Ask me about system design & data-intensive applications & AWS
 
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
