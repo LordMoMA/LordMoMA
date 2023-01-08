@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on distributed systems
 - 💬 Ask me about system design & data-intensive applications & AWS
 - :dancers: I’m looking to collaborate on hig ideas behind reliable, scalable, and maintainable systems.
-- This is my recent work on React Dashboard: <h4>Knock Knock Workplace <a href="https://kk-edu.netlify.app/register"></h4>
+- This is my recent work on React Dashboard: <h4 href="https://kk-edu.netlify.app/register">Knock Knock Workplace </h4>
 
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
