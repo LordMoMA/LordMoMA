@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">:octocat: Hola<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm David</h1>
-<h4 align="center"> :santa: Sr. Software Engineer and AWS certified Solutions Architect with experience in delivering high-quality apps that scale. </h4>
+<h4 align="center"> :santa: Sr. Software Engineer and AWS Solutions Architect with experience in delivering high-quality apps that scale. </h4>
 <h4 align="center"> :christmas_tree: Skilled in Agile management with an unapologetically data-driven business strategy. </h4>
 <h4 align="center"> :honeybee: Passionate for reliable, scalable, and maintainable systems. </h4>
 </div>
@@ -10,7 +10,6 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 
 
 - 🔭 I’m currently working on distributed systems
