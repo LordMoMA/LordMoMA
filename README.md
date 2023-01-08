@@ -7,15 +7,16 @@
 </div>
 
 <div align="center">
-  <a href="">
+  <!-- <a href=""> -->
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 
 
-- 🔭 I’m currently working on distributed system
+- 🔭 I’m currently working on distributed systems
 - 💬 Ask me about system design & data-intensive applications & AWS
+- :dancers: I’m looking to collaborate on hig ideas behind reliable, scalable, and maintainable systems.
 
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
