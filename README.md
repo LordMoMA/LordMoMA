@@ -13,7 +13,6 @@
 
 
 
-
 - 🔭 I’m currently working on distributed systems
 - 💬 Ask me about system design & data-intensive applications & AWS
 - :dancers: I’m looking for collaboration on building open source projects that are reliable, scalable, and maintainable.
