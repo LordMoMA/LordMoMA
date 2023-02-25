@@ -11,8 +11,8 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working on distributed systems
-- 💬 Ask me about software architecure, system design & data-intensive applications & AWS
+- 🔭 I’m currently working on a distributed log service.
+- 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 - :dancers: I’m looking for collaboration on building open source projects that are reliable, scalable, and maintainable.
 
 - :deciduous_tree: I've navigated my company towards a cloud transformation in early 2020 -- closed the data centers, built out a modern SaaS development environment, got cloud native with foundational building blocks like containers and Kubernetes, and continued transforming into an AI-driven organization that make our customers' lives easier. 
