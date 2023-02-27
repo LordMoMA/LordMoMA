@@ -11,7 +11,8 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working on a distributed log service.
+- 🔭 I’m currently working on a distributed log service like Kafka.
+- 🌱 I’m currently learning hardware engineering to get to the bascis of computer science.
 - 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 - :dancers: I’m looking for collaboration on building open source projects that are reliable, scalable, and maintainable.
 
