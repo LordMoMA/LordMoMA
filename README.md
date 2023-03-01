@@ -24,7 +24,7 @@
 - :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
 - ⚡ I also believe that if I have to fail at something, I would fail fast and work out a new approach to solve it.
 
-- 📫 How to reach me: [twitter](https://twitter.com//masterMoMA007)
+- 📫 How to reach me: [twitter](https://twitter.com/masterMoMA007)
 - ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
 
 
