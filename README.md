@@ -6,12 +6,14 @@
 </div>
 
 <div align="center">
+  [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/lordmoma)
+</div>
+  
+<div align="center">
   <a href="https://kk-edu.netlify.app/register">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-[![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/lordmoma)
 
 - 🔭 I’m currently working on a distributed log service like Kafka.
 - 🌱 I’m currently learning hardware engineering to get to the bascis of computer science.
