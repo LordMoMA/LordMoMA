@@ -24,6 +24,28 @@
 - :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
 - ⚡ I also believe that if I have to fail at something, I would fail fast and work out a new approach to solve it.
 
+- 📫 How to reach me: [twitter](https://twitter.com//masterMoMA007)
+- ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
+
+
+### Recent projects :computer:
+<p>
+<a href="https://github.com/LordMoMA/pokedex-cli">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=pokedex-cli&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/lordmoma/proglog">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=proglog&theme=dark&hide_border=true">
+</a>
+</p>
+<p>
+<a href="https://github.com/LordMoMA/maze">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=maze&theme=dark&hide_border=true">
+</a>
+<a href="https://github.com/LordMoMA/Knock-Knock-Edu">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=Knock-Knock-Edu&theme=dark&hide_border=true" />
+</a>
+</p>
+
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
