@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
 </div>
   
 <div align="center">
