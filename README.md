@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/lordmoma)
+  <img src="github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
 </div>
   
 <div align="center">
@@ -26,6 +26,8 @@
 
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/lordmoma)
 
 Here are some ideas to get you started:
 
