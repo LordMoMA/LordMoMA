@@ -11,6 +11,7 @@
        alt="snake" /></a>
 </div>
 
+[![lordmoma's github stats](https://github-readme-stats-chi-tan.vercel.app/api?username=lordmoma&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/lordmoma)
 [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/lordmoma)
 
 - 🔭 I’m currently working on a distributed log service like Kafka.
