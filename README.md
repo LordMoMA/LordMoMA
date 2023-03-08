@@ -1,13 +1,11 @@
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
 </div>
   
 - 🔭 I’m currently working on a distributed log service like Kafka.
 - 🌱 I’m currently learning chip design in assembly, Redis source code, and cryptography in Golang.
 - 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
-- :dancers: I’m looking for collaboration on building open source projects that are reliable, scalable, and maintainable.
-
 - :deciduous_tree: I've navigated my company towards a cloud transformation in early 2020 -- closed the data centers, built out a modern SaaS development environment, got cloud native with foundational building blocks like containers and Kubernetes, and continued transforming into an AI-driven organization that make our customers' lives easier. 
 - :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
 - ⚡ I also believe that if I have to fail at something, I would fail fast and work out a new approach to solve it.
@@ -52,6 +50,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :dancers: I’m looking for collaboration on building open source projects that are reliable, scalable, and maintainable.
 
 - This is my recent work on React Dashboard: <h4 href="https://kk-edu.netlify.app/register">Knock Knock Workplace </h4>
 
