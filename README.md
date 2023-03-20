@@ -5,7 +5,7 @@
 </div>
   
 - 🔭 I’m currently working on a distributed log service like Kafka.
-- 🌱 I’m currently learning chip design in assembly, Redis source code, and cryptography in Golang.
+- 🌱 I’m currently learning machine languages, Redis source code and cyber security in Kali Linux.
 - 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 - :deciduous_tree: I've navigated my company towards a cloud transformation in early 2020 -- closed the data centers, built out a modern SaaS development environment, got cloud native with foundational building blocks like containers and Kubernetes, and continued transforming into an AI-driven organization that make our customers' lives easier. 
 - :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
