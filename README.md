@@ -5,7 +5,7 @@
 </div>
   
 - 🔭 I’m currently working on a distributed log service like Kafka.
-- 🌱 I’m currently learning machine languages, Redis source code and cyber security in Kali Linux.
+- 🌱 I’m revisiting the fundamentals of computer science by learning Nand2Tetris, Redis source code and cyber security in Kali Linux.
 - 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 
 - :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
