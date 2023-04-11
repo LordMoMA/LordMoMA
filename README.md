@@ -29,6 +29,9 @@
 <a href="https://github.com/LordMoMA/pokedex-cli">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=pokedex-cli&theme=dark&hide_border=true" />
 </a>
+<a href="https://github.com/LordMoMA/blog-aggregator">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=blog-aggregator&theme=dark&hide_border=true" />
+</a>
 </p>
 <p>
 <a href="https://github.com/LordMoMA/maze">
