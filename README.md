@@ -9,8 +9,6 @@
 - 🦅 I'm comfortable with Python & JavaScript for data structure and algorithms and Golang for backend development.
 - 😜 I can build complex React apps but I am more passionate for backend engineering.
 - 👯 I have mananged an engineering org of 6 people, and I think the only way to stay sharp in engineering is personally getting hands dirty now and then.
-- 😜 I can build complex React apps but I am more passionate for backend engineering.
-- 😜 I can build complex React apps but I am more passionate for backend engineering.
 - 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 
 - :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
