@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [twitter](https://twitter.com/)
 
-
 [![lordmoma's github stats](https://github-readme-stats-chi-tan.vercel.app/api?username=lordmoma&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/lordmoma)
 
 <div align="center">
