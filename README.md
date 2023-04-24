@@ -6,8 +6,6 @@
   
 - 🔭 I’m currently working on a distributed log service like Kafka.
 - 🌱 I’m revisiting the fundamentals of computer science by learning Nand2Tetris, Redis source code and cyber security in Kali Linux.
-- 🦅 I'm comfortable with Python & JavaScript for data structure and algorithms and Golang for backend development.
-- 😜 I can build complex React apps but I am more passionate for backend engineering.
 - 👯 I have mananged an engineering org of 6 people, and I think the only way to stay sharp in engineering is personally getting hands dirty now and then.
 - 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 
@@ -65,6 +63,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - :dancers: I’m looking for collaboration on building open source projects that are reliable, scalable, and maintainable.
+- 🦅 I'm comfortable with Python & JavaScript for data structure and algorithms and Golang for backend development.
+- 😜 I can build complex React apps but I am more passionate for backend engineering.
 
 - This is my recent work on React Dashboard: <h4 href="https://kk-edu.netlify.app/register">Knock Knock Workplace </h4>
 
