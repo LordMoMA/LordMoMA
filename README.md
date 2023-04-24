@@ -45,7 +45,6 @@
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
  [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/lordmoma)
 
 - :deciduous_tree: I've navigated my company towards a cloud transformation in early 2020 -- closed the data centers, built out a modern SaaS development environment, got cloud native with foundational building blocks like containers and Kubernetes, and continued transforming into an AI-driven organization that make our customers' lives easier. 
