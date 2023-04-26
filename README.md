@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
 </div>
   
-- 🔭 I’m currently working on a distributed log service like Kafka.
+- 🔭 I’m writing hard core software engineering articles on Medium.
 - 🌱 I’m revisiting the fundamentals of computer science by learning Nand2Tetris, Redis source code and cyber security in Kali Linux.
 - 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 
