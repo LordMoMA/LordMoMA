@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://kk-edu.netlify.app/register">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+# Lord MoMA
 
 I’m a software engineer specializing in reliability, performance, scalability, and observability topics. I have extensive experience designing and implementing resilient, responsive, scalable, and maintainable systems. I love learning, sharing, and facing challenges. My blog is https://medium.com/@lordmoma
 
@@ -11,6 +7,12 @@ Main interests:
 * Distributed systems
 * Reliability
 * Observability
+
+<div align="center">
+  <a href="https://kk-edu.netlify.app/register">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### Recent projects :computer:
 <p>
