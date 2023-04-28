@@ -1,10 +1,7 @@
 
 ![](assets/Bottom_up.svg)
-<div align="left">
-  <img src="https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
-</div>
 
-I’m a software engineer specializing in reliability, performance, scalability, and observability topics. I have extensive experience designing and implementing resilient, responsive, scalable, and maintainable systems. I love learning, sharing, and facing challenges. 
+I’m a software engineer specializing in reliability, performance, scalability, and observability topics. I have extensive experience designing and implementing resilient, responsive, scalable, and maintainable systems. I love learning, sharing, and facing challenges. My blog is https://medium.com/@lordmoma
 
 Main interests:
 * Go, Python, JavaScript, Rust
@@ -46,6 +43,9 @@ Main interests:
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align="left">
+  <img src="https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
+</div>
   
 - 🔭 I’m writing hard core software engineering articles on Medium.
 - 🌱 I’m revisiting the fundamentals of computer science by learning Nand2Tetris, Redis source code and cyber security in Kali Linux.
