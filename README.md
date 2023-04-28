@@ -9,6 +9,7 @@ Main interests:
 * Observability
 
 My recent popular article in the Go Community (published in 2023): 
+
 [6 Tips on High Performance Go — Advanced Go Topics](https://medium.com/@lordmoma/6-tips-on-high-performance-go-advanced-go-topics-37b601fa329d) 
 
 [Hexagonal Architecture Deep Dive with PostgreSQL, Redis and Go Practices](https://towardsdev.com/hexagonal-architecture-deep-dive-with-postgresql-redis-and-go-practices-4b051f940e93) 
