@@ -76,5 +76,4 @@ Here are some ideas to get you started:
 <h4 align="center"> :christmas_tree: Skilled in Agile management with an unapologetically data-driven business strategy. </h4>
 <h4 align="center"> :honeybee: Passionate for reliable, scalable, and maintainable systems. </h4>
 </div>
-
 -->
