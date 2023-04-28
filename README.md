@@ -8,6 +8,10 @@ Main interests:
 * Reliability
 * Observability
 
+My recent popular article _[6 Tips on High Performance Go — Advanced Go Topics](https://medium.com/@lordmoma/6-tips-on-high-performance-go-advanced-go-topics-37b601fa329d) published in April 2023.
+
+![](fastgo.png)
+
 <div align="center">
   <a href="https://kk-edu.netlify.app/register">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
