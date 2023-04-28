@@ -8,7 +8,7 @@ Main interests:
 * Reliability
 * Observability
 
-My recent popular article in the Go Community (published in 2023): 
+My recent popular articles in the Go Community (published in 2023): 
 
 [6 Tips on High Performance Go — Advanced Go Topics](https://medium.com/@lordmoma/6-tips-on-high-performance-go-advanced-go-topics-37b601fa329d) 
 
