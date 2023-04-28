@@ -3,14 +3,15 @@
 <div align="left">
   <img src="https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
 </div>
-  
-- 🔭 I’m writing hard core software engineering articles on Medium.
-- 🌱 I’m revisiting the fundamentals of computer science by learning Nand2Tetris, Redis source code and cyber security in Kali Linux.
-- 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 
-- :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
-- ⚡ I also believe that if I have to fail at something, I would fail fast and work out a new approach to solve it.
-- ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
+I’m a software engineer specializing in reliability, performance, scalability, and observability topics. I have extensive experience designing and implementing resilient, responsive, scalable, and maintainable systems. I love learning, sharing, and facing challenges. 
+
+Main interests:
+* Go, Python, JavaScript, Rust
+* Distributed systems
+* Reliability
+* Observability
+
 
 <div align="center">
   <a href="https://kk-edu.netlify.app/register">
@@ -44,6 +45,15 @@
 
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  
+- 🔭 I’m writing hard core software engineering articles on Medium.
+- 🌱 I’m revisiting the fundamentals of computer science by learning Nand2Tetris, Redis source code and cyber security in Kali Linux.
+- 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
+
+- :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
+- ⚡ I also believe that if I have to fail at something, I would fail fast and work out a new approach to solve it.
+- ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
 
  [![Top Langs](https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/lordmoma)
 
