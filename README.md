@@ -24,7 +24,7 @@ My recent popular articles in the Go Community (published in 2023):
        alt="snake" /></a>
 </div>
 
-### Recent projects :computer:
+### Recent Fun Projects :computer:
 <p>
 <a href="https://github.com/lordmoma/proglog">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=proglog&theme=dark&hide_border=true">
