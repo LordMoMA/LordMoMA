@@ -1,6 +1,3 @@
-
-![](assets/Bottom_up.svg)
-
 <div align="center">
   <a href="https://kk-edu.netlify.app/register">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -41,6 +38,7 @@ Main interests:
 
 <!--
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](assets/Bottom_up.svg)
 
 <div align="left">
   <img src="https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=lordmoma&langs_count=10&layout=compact&theme=dark&hide_border=true"/>
