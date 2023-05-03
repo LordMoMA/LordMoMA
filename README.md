@@ -16,6 +16,8 @@ My recent popular articles in the Go Community (published in 2023):
 
 [Hexagonal Architecture Deep Dive with PostgreSQL, Redis and Go Practices](https://towardsdev.com/hexagonal-architecture-deep-dive-with-postgresql-redis-and-go-practices-4b051f940e93) 
 
+[The Not Good Part About Go Programming](https://medium.com/@lordmoma/whats-not-good-about-go-programming-7b7b7006acf8) 
+
 [Learn Golang — Advanced Functions](https://medium.com/@lordmoma/learn-golang-advanced-functions-e69853996e39) 
 
 ![](go.gif)
