@@ -5,8 +5,8 @@ I’m a software engineer specialising in converting tech value into business re
 Main interests:
 * Go, Python, JavaScript, Rust
 * Distributed systems
-* Reliability
-* Observability
+* Clean Code
+* Clean Architecture
 
 My recent popular articles in the Go Community (published in 2023): 
 
