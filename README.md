@@ -1,6 +1,6 @@
 # David Lee
 
-I’m a software engineer specializing in reliability, performance, scalability, and observability topics. I have extensive experience designing and implementing resilient, responsive, scalable, and maintainable systems. I love learning, sharing, and facing challenges. My blog is https://medium.com/@lordmoma
+I’m a software engineer specialising in converting tech value into business revenue. I love learning, sharing, and embracing challenges. My blog is https://medium.com/@lordmoma
 
 Main interests:
 * Go, Python, JavaScript, Rust
