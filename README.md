@@ -5,7 +5,7 @@ I’m a software engineer specialising in converting tech value into business re
 My blog: https://medium.com/@lordmoma
 
 Main interests:
-* Go, Python, TypeScript, Rust
+* Go, Rust, Python, TypeScript
 * Distributed systems
 * Good Design
 * Clean Code
