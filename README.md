@@ -7,6 +7,7 @@ My blog: https://medium.com/@lordmoma
 Main interests:
 * Go, Rust, Python, TypeScript
 * Distributed systems
+* Machine Learning / Deep Learning
 * Good Design
 * Clean Code
 * Clean Architecture
