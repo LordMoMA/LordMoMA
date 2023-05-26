@@ -1,6 +1,6 @@
 # David Lee
 
-I’m a software engineer specialising in converting tech value into business revenue. Learning new tech, sharing ideas, and embracing technical and business challenges are my daily activities. 
+I’m a Sr. Backend Engineer specialising in converting tech value into business revenue. Learning new tech, sharing ideas, and embracing technical and business challenges are my daily activities. 
 
 My blog: https://medium.com/@lordmoma
 
