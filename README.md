@@ -5,7 +5,7 @@ I’m a Sr. Backend Engineer specialising in converting tech value into business
 My blog: https://medium.com/@lordmoma
 
 Main interests:
-* Go, Rust, Python, TypeScript
+* Go, Rust, C++, Python
 * Distributed systems
 * Machine Learning / Deep Learning
 * Good Design
