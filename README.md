@@ -6,7 +6,7 @@ My blog: https://medium.com/@lordmoma
 
 Main interests:
 * Go, Rust, C++, Python
-* Distributed systems
+* Distributed systems / Networking & Security
 * Machine Learning / Deep Learning
 * Good Design
 * Clean Code
