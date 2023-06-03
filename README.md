@@ -1,6 +1,6 @@
 # David Lee
 
-A Software Engineer at large. I love to learn and share beyond software engineering.
+A Software Engineer at large, loves to learn and share beyond software engineering.
 
 My blog: https://medium.com/@lordmoma
 
