@@ -1,6 +1,6 @@
 # David Lee
 
-A Software Engineer specialising in converting tech value into business revenue. Learning new tech, sharing ideas, and embracing technical and business challenges are my daily activities. 
+A Software Engineer at large. I love to learn and share beyond software engineering.
 
 My blog: https://medium.com/@lordmoma
 
