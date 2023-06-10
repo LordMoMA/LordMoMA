@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 
 [![lordmoma's github stats](https://github-readme-stats-chi-tan.vercel.app/api?username=lordmoma&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/lordmoma)
 
+
 <div align="center">
 <h1 align="center">Hola<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm David</h1>
 <h4 align="center"> :santa: Sr. Software Engineer and AWS Solutions Architect with experience in delivering high-quality apps that scale. </h4>
