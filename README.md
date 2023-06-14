@@ -70,6 +70,7 @@ My recent popular articles in the Go Community (published in 2023):
 - 🌱 I’m revisiting the fundamentals of computer science by learning Nand2Tetris, Redis source code and cyber security in Kali Linux.
 - 💬 Ask me about software architecure, system design & data-intensive applications & AWS.
 
+
 - :tiger: I think that an engineering org should focus on shipping products and features faster, not making individaul devs more productive.
 - ⚡ I also believe that if I have to fail at something, I would fail fast and work out a new approach to solve it.
 - ⚡ Fun fact: The Apollo 11 mission computer required only 4KB of ram. (2048 words to be exact. [\[1\]](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer))
