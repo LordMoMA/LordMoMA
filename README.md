@@ -5,7 +5,7 @@ A Software Engineer at large, loves to learn and share beyond software engineeri
 My blog: https://medium.com/@lordmoma
 
 Main interests:
-* Go, Rust, C++, Python
+* Go, Rust, Python
 * Distributed systems / Networking & Security
 * Machine Learning / Deep Learning
 * Good Design
