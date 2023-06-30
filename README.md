@@ -85,7 +85,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [twitter](https://twitter.com/)
 
-
 My recent popular articles in the Go Community (published in 2023): 
 
 [6 Tips on High Performance Go — Advanced Go Topics](https://medium.com/@lordmoma/6-tips-on-high-performance-go-advanced-go-topics-37b601fa329d) 
