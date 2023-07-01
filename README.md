@@ -8,7 +8,6 @@ Main interests:
 * Go, Rust, Python
 * Distributed systems / Networking & Security
 * Machine Learning / Deep Learning
-* Good Design
 * Clean Code
 * Clean Architecture
 
