@@ -1,6 +1,5 @@
-# David Lee
 
-One must be sane to think clearly, but one can think deeply and be quite insane. -- Nikola Tesla
+# One must be sane to think clearly, but one can think deeply and be quite insane. -- Nikola Tesla
 
 <div align="center">
   <a href="https://kk-edu.netlify.app/register">
