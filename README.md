@@ -1,6 +1,6 @@
 # David Lee
 
-A Software Engineer at large, loves to learn and share 
+One must be sane to think clearly, but one can think deeply and be quite insane. -- Nikola Tesla
 
 <div align="center">
   <a href="https://kk-edu.netlify.app/register">
@@ -8,27 +8,13 @@ A Software Engineer at large, loves to learn and share
        alt="snake" /></a>
 </div>
 
-### Recent Fun Projects :computer:
+### Recent Projects :computer:
 <p>
 <a href="https://github.com/lordmoma/Hexagonal-Architecture">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=Hexagonal-Architecture&theme=dark&hide_border=true">
 </a>
 <a href="https://github.com/lordmoma/proglog">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=proglog&theme=dark&hide_border=true">
-</a>
- <a href="https://github.com/lordmoma/chirpy">
-<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=chirpy&theme=dark&hide_border=true">
-</a>
-<a href="https://github.com/LordMoMA/pokedex-cli">
-<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=pokedex-cli&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/LordMoMA/blog-aggregator">
-<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=blog-aggregator&theme=dark&hide_border=true" />
-</a>
-</p>
-<p>
-<a href="https://github.com/LordMoMA/maze">
-<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=maze&theme=dark&hide_border=true">
 </a>
 <a href="https://github.com/LordMoMA/Knock-Knock-Edu">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=Knock-Knock-Edu&theme=dark&hide_border=true" />
@@ -90,5 +76,20 @@ My recent popular articles in the Go Community (published in 2023):
 <h4 align="center"> :christmas_tree: Skilled in Agile management with an unapologetically data-driven business strategy. </h4>
 <h4 align="center"> :honeybee: Passionate for reliable, scalable, and maintainable systems. </h4>
 </div>
+
+ <a href="https://github.com/lordmoma/chirpy">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=chirpy&theme=dark&hide_border=true">
+</a>
+<a href="https://github.com/LordMoMA/pokedex-cli">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=pokedex-cli&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/LordMoMA/blog-aggregator">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=blog-aggregator&theme=dark&hide_border=true" />
+</a>
+</p>
+<p>
+<a href="https://github.com/LordMoMA/maze">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=maze&theme=dark&hide_border=true">
+</a>
 -->
 
