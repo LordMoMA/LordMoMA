@@ -1,17 +1,6 @@
 # David Lee
 
-A Software Engineer at large, loves to learn and share beyond software engineering.
-
-My blog: https://medium.com/@lordmoma
-
-Main interests:
-* Go, Rust, Python, Lua
-* Distributed systems/ cryptography / Networking & Security
-* Machine Learning / Deep Learning
-* Clean Code
-* Clean Architecture
-
-![](go.gif)
+A Software Engineer at large, loves to learn and share 
 
 <div align="center">
   <a href="https://kk-edu.netlify.app/register">
