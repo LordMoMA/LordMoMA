@@ -75,7 +75,6 @@ My recent popular articles in the Go Community (published in 2023):
 <h4 align="center"> :christmas_tree: Skilled in Agile management with an unapologetically data-driven business strategy. </h4>
 <h4 align="center"> :honeybee: Passionate for reliable, scalable, and maintainable systems. </h4>
 </div>
-
  <a href="https://github.com/lordmoma/chirpy">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=chirpy&theme=dark&hide_border=true">
 </a>
