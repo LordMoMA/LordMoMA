@@ -1,10 +1,15 @@
 ### Rules of Thumb 
-📟 1. Amdahl/Case Rule: A balanced computer system needs about 1 MB of main memory capacity and 1 megabit per second of I/O bandwidth per MIPS of CPU performance.
-🧌 2. 90/10 Locality Rule: A program executes about 90% of its instructions in 10% of its code.
-🦥 3. Bandwidth Rule: Bandwidth grows by at least the square of the improvement in latency.
-🪺 4. 2:1 Cache Rule: The miss rate of a direct-mapped cache of size N is about the same as a two-way set- associative cache of size N/2.
-🧬 5. Dependability Rule: Design with no single point of failure.
-🔌 6. Watt-Year Rule: The fully burdened cost of a Watt per year in a Warehouse Scale Computer in North America in 2011, including the cost of amortizing the power and cooling infrastructure, is about $2.
+📟1. Amdahl/Case Rule: A balanced computer system needs about 1 MB of main memory capacity and 1 megabit per second of I/O bandwidth per MIPS of CPU performance.
+
+🧌2. 90/10 Locality Rule: A program executes about 90% of its instructions in 10% of its code.
+
+🦥3. Bandwidth Rule: Bandwidth grows by at least the square of the improvement in latency.
+
+🪺4. 2:1 Cache Rule: The miss rate of a direct-mapped cache of size N is about the same as a two-way set- associative cache of size N/2.
+
+🧬5. Dependability Rule: Design with no single point of failure.
+
+🔌6. Watt-Year Rule: The fully burdened cost of a Watt per year in a Warehouse Scale Computer in North America in 2011, including the cost of amortizing the power and cooling infrastructure, is about $2.
 
 <div align="center">
   <a href="https://kk-edu.netlify.app/register">
