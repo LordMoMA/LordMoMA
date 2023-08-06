@@ -94,7 +94,6 @@ My recent popular articles in the Go Community (published in 2023):
 <a href="https://github.com/LordMoMA/blog-aggregator">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=blog-aggregator&theme=dark&hide_border=true" />
 </a>
-
 </p>
 
 <p>
