@@ -10,7 +10,6 @@
 5. Dependability Rule: Design with no single point of failure.
 
 6. Watt-Year Rule: The fully burdened cost of a Watt per year in a Warehouse Scale Computer in North America in 2011, including the cost of amortizing the power and cooling infrastructure, is about $2.
-
 <div align="center">
   <a href="https://kk-edu.netlify.app/register">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
