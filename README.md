@@ -15,7 +15,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-### Recent Projects :computer:
+
+## Recent Projects :computer:
 <p>
 <a href="https://github.com/lordmoma/Hexagonal-Architecture">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=Hexagonal-Architecture&theme=dark&hide_border=true">
