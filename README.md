@@ -28,7 +28,7 @@
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=proglog&theme=dark&hide_border=true">
 </a>
 <a href="https://github.com/LordMoMA/Knock-Knock-Edu">
-<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=Knock-Knock-Edu&theme=dark&hide_border=true" />
+<img src="https://kk-edu.netlify.app/register" />
 </a>
 </p>
 <!--
