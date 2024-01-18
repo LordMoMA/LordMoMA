@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-## 🐊 Rules of Thumb for Computer Architecture - A Quantitative Approach
+## ❤️‍🔥 Rules of Thumb for Computer Architecture - A Quantitative Approach
 1. Amdahl/Case Rule: A balanced computer system needs about 1 MB of main memory capacity and 1 megabit per second of I/O bandwidth per MIPS of CPU performance.
 
 2. 90/10 Locality Rule: A program executes about 90% of its instructions in 10% of its code.
