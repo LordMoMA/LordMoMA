@@ -17,9 +17,7 @@
 <img width="1578" alt="Screenshot 2024-01-10 at 1 08 24 AM" src="https://github.com/LordMoMA/LordMoMA/assets/67067729/bc4eee32-da89-4957-9c46-5ebbcdfe63ba">
 
 <div align="center">
-  <a href="https://kk-edu.netlify.app/register">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
+  ![Snake animation](https://raw.githubusercontent.com/LordMoMA/LordMoMA/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ## Recent Projects :computer:
@@ -37,7 +35,9 @@
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=proglog&theme=dark&hide_border=true">
 </a>
 </p>
-<!--
+<!--   <a href="https://kk-edu.netlify.app/register">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
 **LordMoMA/LordMoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](assets/Bottom_up.svg)
 
