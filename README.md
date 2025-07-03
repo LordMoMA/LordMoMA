@@ -15,7 +15,7 @@
 
 ## 🦦 Latency Numbers:
 <img width="1578" alt="Screenshot 2024-01-10 at 1 08 24 AM" src="https://github.com/LordMoMA/LordMoMA/assets/67067729/bc4eee32-da89-4957-9c46-5ebbcdfe63ba">
- ![Snake animation](https://raw.githubusercontent.com/LordMoMA/LordMoMA/output/github-contribution-grid-snake-dark.svg)
+
 <div align="center">
  <img src="https://raw.githubusercontent.com/LordMoMA/LordMoMA/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </div>
