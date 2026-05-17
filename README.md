@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<img width="1105" height="257" alt="SCR-20260502-okrx" src="https://github.com/user-attachments/assets/78d16f72-7101-466e-8cad-553f181445dd" />
 
 ## ❤️‍🔥 Rules of Thumb for Computer Architecture - A Quantitative Approach
 1. Amdahl/Case Rule: A balanced computer system needs about 1 MB of main memory capacity and 1 megabit per second of I/O bandwidth per MIPS of CPU performance.
