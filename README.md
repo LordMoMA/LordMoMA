@@ -1,17 +1,24 @@
 <img width="1105" height="257" alt="SCR-20260502-okrx" src="https://github.com/user-attachments/assets/78d16f72-7101-466e-8cad-553f181445dd" />
 
-## ❤️‍🔥 Rules of Thumb for Computer Architecture - A Quantitative Approach
-1. Amdahl/Case Rule: A balanced computer system needs about 1 MB of main memory capacity and 1 megabit per second of I/O bandwidth per MIPS of CPU performance.
+## ❤️‍🔥 Rules of Thumb for Computer Architecture — A Quantitative Approach
 
-2. 90/10 Locality Rule: A program executes about 90% of its instructions in 10% of its code.
+### 1. Amdahl/Case Rule
+> A balanced computer system needs about **1 MB of main memory** and **1 megabit/sec of I/O bandwidth per MIPS** of CPU performance.
 
-3. Bandwidth Rule: Bandwidth grows by at least the square of the improvement in latency.
+### 2. 90/10 Locality Rule
+> A program executes about **90% of its instructions** in **10% of its code**.
 
-4. 2:1 Cache Rule: The miss rate of a direct-mapped cache of size N is about the same as a two-way set- associative cache of size N/2.
+### 3. Bandwidth Rule
+> Bandwidth grows by at least the **square of the improvement in latency**.
 
-5. Dependability Rule: Design with no single point of failure.
+### 4. 2:1 Cache Rule
+> The miss rate of a **direct-mapped cache** of size N is roughly the same as a **two-way set-associative cache** of size N/2.
 
-6. Watt-Year Rule: The fully burdened cost of a Watt per year in a Warehouse Scale Computer in North America in 2011, including the cost of amortizing the power and cooling infrastructure, is about $2.
+### 5. Dependability Rule
+> Design with **no single point of failure**.
+
+### 6. Watt-Year Rule
+> In 2011, the fully burdened cost of **1 Watt per year** in a **Warehouse Scale Computer** in North America—including amortized power and cooling—was about **$2**.
 
 ## 🦦 Latency Numbers:
 <img width="1578" alt="Screenshot 2024-01-10 at 1 08 24 AM" src="https://github.com/LordMoMA/LordMoMA/assets/67067729/bc4eee32-da89-4957-9c46-5ebbcdfe63ba">
