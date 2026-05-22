@@ -1,4 +1,4 @@
-<img width="1105" height="257" alt="SCR-20260502-okrx" src="https://github.com/user-attachments/assets/78d16f72-7101-466e-8cad-553f181445dd" />
+[![Live Shader Animation](./hero-visual.gif)](https://leestack.dev/)
 
 ## ❤️‍🔥 Rules of Thumb for Computer Architecture — A Quantitative Approach
 
