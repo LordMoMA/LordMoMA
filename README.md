@@ -29,7 +29,7 @@
  <img src="https://raw.githubusercontent.com/LordMoMA/LordMoMA/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </div>
 
-## Recent Projects :computer:
+<!--
 <p>
   <a href="https://github.com/lordmoma/Hexagonal-Architecture">
     <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=Hexagonal-Architecture&theme=dark&hide_border=true" height="180">
@@ -44,6 +44,7 @@
     <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=blog-aggregator&theme=dark&hide_border=true" height="180">
   </a>
 </p>
+-->
 <!--   <a href="https://kk-edu.netlify.app/register">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
   </a>
