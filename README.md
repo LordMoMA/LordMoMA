@@ -34,14 +34,14 @@
 <a href="https://github.com/lordmoma/Hexagonal-Architecture">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=Hexagonal-Architecture&theme=dark&hide_border=true">
 </a>
+ <a href="https://github.com/LordMoMA/AI_skills">
+<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=AI_skills&theme=dark&hide_border=true">
+</a>
 <a href="https://github.com/lordmoma/Intelli-Mall">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=Intelli-Mall&theme=dark&hide_border=true">
 </a>
 <a href="https://github.com/LordMoMA/blog-aggregator">
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=blog-aggregator&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/LordMoMA/AI_skills">
-<img src="https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=lordmoma&repo=AI_skills&theme=dark&hide_border=true">
 </a>
 </p>
 <!--   <a href="https://kk-edu.netlify.app/register">
