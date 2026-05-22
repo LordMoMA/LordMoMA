@@ -1,4 +1,4 @@
-[![Live Shader Animation](./hero-dynamic-v9.gif)](https://leestack.dev/)
+[![Live Shader Animation](./hero-motion-v10-fast.gif)](https://leestack.dev/)
 
 ## ❤️‍🔥 Rules of Thumb for Computer Architecture — A Quantitative Approach
 
